@@ -16,14 +16,14 @@
 
 <div  align="center"> 
     <h3 align="center">Tecnologias que estou estudando 📁</h3>
-    <img align="center" height="30" width="40" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-    <img align="center" height="30" width="40" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="center" height="30" width="40" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-    <img align="center" height="30" width="40" alt="aws-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" height="30" width="40" alt="ansible-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-    <img align="center" height="30" width="40" alt="terraform-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-    <img align="center" height="30" width="40" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> 
-    <img align="center" height="30" width="40" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="60" width="50" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+    <img align="center" height="60" width="50" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+    <img align="center" height="60" width="50" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+    <img align="center" height="60" width="50" alt="aws-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" height="60" width="50" alt="ansible-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
+    <img align="center" height="60" width="50" alt="terraform-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+    <img align="center" height="60" width="50" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> 
+    <img align="center" height="60" width="50" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
   </div>
 
