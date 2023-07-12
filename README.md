@@ -23,7 +23,9 @@
     <img align="center" height="60" width="50" alt="ansible-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
     <img align="center" height="60" width="50" alt="terraform-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
     <img align="center" height="60" width="50" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> 
-    <img align="center" height="60" width="50" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="60" width="50" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="60" width="50" alt="bash-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+          
           
   </div>
 
