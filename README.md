@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-
+- Recentemente descobri um amor em construção por Linux 🐧, me lembra Happy Feet hahaha ❤️
 
 <div  align="center"> 
     <h4 align="center">Tecnologias que estou estudando 📁</h4>
