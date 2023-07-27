@@ -12,9 +12,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=16&theme=swift"/>
 </div>
 <br/>
-
-- Recentemente descobri um amor em construção por Linux 🐧, me lembra Happy Feet hahaha ❤️
-
+- 🥰 Recentemente descobri um amor em construção por Linux 🐧, me lembra Happy Feet hahaha ❤️
+<br/>
 <div  align="center"> 
     <h4 align="center">Tecnologias que estou estudando 📁</h4>
     <img align="center" height="60" width="40" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
