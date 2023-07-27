@@ -2,7 +2,7 @@
 ### Heey! Bem vindo ao meu perfil! 🐧
 ##
 <br/>
-Atualmente trabalho como Técnico em T.I, realizando aquele suporte duríssimo hahaa 🖥️ 
+- 👨‍💻 Atualmente trabalho como Técnico em T.I, realizando aquele suporte duríssimo hahaa 🖥️ 
 <br/>
 <br/>
 
