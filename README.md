@@ -2,20 +2,20 @@
 ### Heey! Bem vindo ao meu perfil! 🐧
 ##
 <br/>
-- 👨‍💻 Atualmente trabalho como Técnico em T.I, realizando aquele suporte duríssimo hahaa 🖥️ 
+- 👨‍💻 I currently work as an IT Technician, providing that complicated support hahaa. 🖥️ 
 <br/>
 <br/>
 
 <div align="center">
  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=16&theme=swift"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br/>
-- 🥰 Recentemente descobri um amor em construção por Linux 🐧, me lembra Happy Feet hahaha ❤️
+- 🥰 Recently, I've discovered a growing love for Linux 🐧, it reminds me of Happy Feet hahaha ❤️
 <br/>
 <div  align="center"> 
-    <h4 align="center">Tecnologias que estou estudando 📁</h4>
+    <h4 align="center"> Technologies I'm studying 📁</h4>
     <img align="center" height="60" width="40" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
     <img align="center" height="60" width="40" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="60" width="40" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
