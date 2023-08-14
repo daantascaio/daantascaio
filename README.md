@@ -1,12 +1,11 @@
-<div align="center">
  
 ## Heey! Bem vindo ao meu perfil! 🐧
 
 👨‍💻 I currently work as an IT Technician, providing that complicated support hahaa. 🖥️ 
  <br/>
  
- <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&show=reviews"/>
+ <div align="left">
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&show=reviews"/>
    <br/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=15&theme=dark"/>
  </div>
@@ -35,5 +34,4 @@
  <div align="center"> 
    <a href="https://www.linkedin.com/in/caio-dantas-2a0652228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
-</div>  
 
