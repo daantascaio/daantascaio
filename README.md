@@ -4,7 +4,7 @@
 👨‍💻 I currently work as an IT Technician, providing that complicated support hahaa. 🖥️ 
  <br/>
  
- <div align="left">
+ <div align="">
    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&show=reviews"/>
    <br/>
    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=15&theme=dark"/>
@@ -15,7 +15,7 @@
  🥰 Recently, I've discovered a growing love for Linux 🐧, it reminds me of Happy Feet hahaha ❤️
  <br/>
  
- <div  align="ritgh"> 
+ <div  align=""> 
      <h4> Technologies I'm studying 📁</h4>
      <img height="60" width="40" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
      <img height="60" width="40" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -31,12 +31,12 @@
    
  ##
       
- <div align="center"> 
+ <div align=""> 
    <a href="https://www.linkedin.com/in/caio-dantas-2a0652228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
  
 <br/>
 
-<div align="right">
- <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px">
+<div align="">
+<kbd> <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px"> <kbd/>
 </div>
