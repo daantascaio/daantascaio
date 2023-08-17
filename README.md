@@ -38,5 +38,5 @@
 <br/>
 
 <div align="">
-<kbd> <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px"> <kbd/>
+<kbd> <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px"> </kbd>
 </div>
