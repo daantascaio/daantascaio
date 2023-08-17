@@ -34,4 +34,9 @@
  <div align="center"> 
    <a href="https://www.linkedin.com/in/caio-dantas-2a0652228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  </div>
+ 
+<br/>
 
+<div align="right">
+ <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px">
+</div>
