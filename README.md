@@ -1,13 +1,13 @@
 <!--img header-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DFD7BF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header"/>
 
 <!--introduction-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFD7BF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Dantas;I'm+20+years+old;I'm+from+Brazil;I'm+an+IT+technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Dantas;I'm+20+years+old;I'm+from+Brazil;I'm+an+IT+technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--containers-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&count_private=true&hide_border=true&title_color=DFD7BF&icon_color=DFD7BF&text_color=DFD7BF&bg_color=0d1117" alt="Caio Dantas Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&langs_count=10&layout=compact&hide_border=true&title_color=DFD7BF&text_color=DFD7BF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=800000&bg_color=0d1117" alt="Caio Dantas Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&langs_count=10&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <!--achievements
@@ -34,4 +34,4 @@ I have become someone passionate about learning and the constant pursuit of evol
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daantascaio&bg_color=0d1117&color=ffffff&line=ffffff&point=753082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 <!--footer-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DFD7BF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
