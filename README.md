@@ -1,42 +1,37 @@
- 
-## Heey! Bem vindo ao meu perfil! 🐧
+<!--img header-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DFD7BF&height=120&section=header"/>
 
-👨‍💻 I currently work as an IT Technician, providing that complicated support hahaa. 🖥️ 
- <br/>
- 
- <div align="left">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&theme=dark&include_all_commits=false&count_private=true&show=reviews"/>
- 
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&layout=compact&langs_count=15&theme=dark"/>
- </div>
-  
- <br/>
- 
- 🥰 Recently, I've discovered a growing love for Linux 🐧, it reminds me of Happy Feet hahaha ❤️
- <br/>
- 
- <div  align=""> 
-     <h4> Technologies I'm studying 📁</h4>
-     <img height="60" width="40" alt="docker-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-     <img height="60" width="40" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-     <img height="60" width="40" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-     <img height="60" width="40" alt="aws-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-     <img height="60" width="40" alt="ansible-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
-     <img height="60" width="40" alt="terraform-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
-     <img height="60" width="40" alt="nginx-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"> 
-     <img height="60" width="40" alt="python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-     <img height="60" width="40" alt="bash-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
- 
-   </div>
-   
- ##
-      
- <div align=""> 
-   <a href="https://www.linkedin.com/in/caio-dantas-2a0652228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- </div>
- 
-<br/>
+<!--introduction-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DFD7BF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Dantas;I'm+20+years+old;I'm+from+Brazil;I'm+an+IT+technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="">
-<kbd> <img src="https://github.com/daantascaio/daantascaio/blob/main/coding.gif" height="250px"> </kbd>
+<!--containers-->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&count_private=true&hide_border=true&title_color=DFD7BF&icon_color=DFD7BF&text_color=DFD7BF&bg_color=0d1117" alt="Caio Dantas Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&langs_count=10&layout=compact&hide_border=true&title_color=DFD7BF&text_color=DFD7BF&bg_color=0d1117" />
 </div>
+
+<!--achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=daantascaio&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+## Main skills:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
+-->
+
+## Studing at this moment
+*AWS* | *DevOps* | *Cloud computing* | *Linux*
+
+## About me
+Studying technology to help more and more people is my goal. With nearly two years of experience working as an IT Technician, I have been exposed to various technology areas, which has sparked my interest in the world of DevOps. I have been diligently studying several of the required tools.
+
+Over these two years, I have consistently worked on hardware maintenance, printer installation and configuration, performing setups in AD DS, network infrastructure, software installation and configuration, as well as implementing new systems within the company.
+
+I have become someone passionate about learning and the constant pursuit of evolution..
+
+<!--grapic
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daantascaio&bg_color=0d1117&color=ffffff&line=ffffff&point=753082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
+<!--footer-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DFD7BF&height=120&section=footer"/>
