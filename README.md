@@ -28,7 +28,7 @@ Studying technology to help more and more people is my goal. With nearly two yea
 
 Over these two years, I have consistently worked on hardware maintenance, printer installation and configuration, performing setups in AD DS, network infrastructure, software installation and configuration, as well as implementing new systems within the company.
 
-I have become someone passionate about learning and the constant pursuit of evolution..
+I have become someone passionate about learning and the constant pursuit of evolution!
 
 <!--grapic
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daantascaio&bg_color=0d1117&color=ffffff&line=ffffff&point=753082&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
