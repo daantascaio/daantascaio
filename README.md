@@ -30,6 +30,13 @@ I have become someone passionate about learning and the constant pursuit of evol
 #
 ### Studing at this moment
 *Computer Science* | *DevOps* | *Infra* | *Linux* | *Python*
+<br/>
+<br/>
+<br/>
+<div align="center">  
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=daantascaio&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" alt="Caio Dantas Stats" />  
+ <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&langs_count=10&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" /> !-->
+</div>
 
 
 <!--grapic
