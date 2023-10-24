@@ -21,6 +21,8 @@ img header
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 END-->
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
+
 ### About me
 Studying technology to help more and more people is my goal. With nearly two years of experience working as an IT Technician, I have been exposed to various technology areas, which has sparked my interest in the world of DevOps. I have been diligently studying several of the required tools.
 
@@ -31,11 +33,12 @@ I have become someone passionate about learning and the constant pursuit of evol
 ### Studing at this moment
 *Computer Science* | *DevOps* | *Infra* | *Linux* | *Python*
 <br/>
-<br/>
-<div align="left">  
-  <img src="https://github-readme-stats.vercel.app/api?username=daantascaio&show=reviews,discussions_started,discussions_answered&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" alt="Caio Dantas Stats" />  
+
+
+<!--  <div align="left">  
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=daantascaio&show=reviews,discussions_started,discussions_answered&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" alt="Caio Dantas Stats" />  
  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daantascaio&langs_count=10&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=0d1117" /> !-->
-</div>
+ <!-- </div>
 
 
 <!--grapic
