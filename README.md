@@ -28,7 +28,7 @@ Studying technology to help more and more people is my goal. With nearly two yea
 
 Over these two years, I have consistently worked on hardware maintenance, printer installation and configuration, performing setups in AD DS, network infrastructure, software installation and configuration, as well as implementing new systems within the company.
 
-I have become someone passionate about learning and the constant pursuit of evolution!
+I have become someone passionate about learning and the constant <br/> pursuit of evolution!
 
 ### Studing at this moment
 *Computer Science* | *DevOps* | *Infra* | *Linux* | *Python*
