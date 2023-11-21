@@ -31,7 +31,7 @@ Over these two years, I have consistently worked on hardware maintenance, printe
 I have become someone passionate about learning and the constant <br/> pursuit of evolution!
 
 ### Studing at this moment
-*Computer Science* | *DevOps* | *Infra* | *Linux* | *Python*
+*Computer Science* | *Infra* | *Python* <!-- *DevOps* | *Linux*--> 
 <br/>
 
 
