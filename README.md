@@ -21,7 +21,7 @@ img header
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&textColor=0D1117)&nbsp;
 END-->
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right"> -->
 
 ### About me
 Studying technology to help more and more people is my goal. With nearly two years of experience working as an IT Technician, I have been exposed to various technology areas, which has sparked my interest in the world of DevOps. I have been diligently studying several of the required tools.
