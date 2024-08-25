@@ -23,16 +23,21 @@ END-->
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right"> -->
 
+
+
+
 ### About me
-Studying technology to help more and more people is my goal. With nearly two years of experience working as an IT Technician, I have been exposed to various technology areas, which has sparked my interest in the world of DevOps. I have been diligently studying several of the required tools.
+Studying technology to help more and more people is my goal. With nearly three years of experience in the IT field, I am currently working as an Infrastructure Analyst. I have experience with VMware, Zabbix for monitoring, and I use Samba for managing file sharing and network file management. I am also responsible for network security, using Sophos to control permissions and BitLocker for disk encryption management, as well as planning new security measures for the company.
 
-Over these two years, I have consistently worked on hardware maintenance, printer installation and configuration, performing setups in AD DS, network infrastructure, software installation and configuration, as well as implementing new systems within the company.
+Over these years, I have consistently worked on hardware maintenance, performed setups in AD DS, managed network infrastructure, and implemented new systems within the company. I am also responsible for the company’s structured cabling, the planning of all infrastructure projects, and asset and inventory management.
 
-I have become someone passionate about learning and the constant <br/> pursuit of evolution!
+I have become passionate about learning and the constant pursuit of evolution!
 
 ### Studing at this moment
-*SysAdmin* | *DevOps* | *Infra* | *Python* | *Sec* <!-- *Computer Science* | *Linux*--> 
+*SysAdmin* | *Infra* | *DevOps* | *Python* | *Sec* <!-- *Computer Science* | *Linux*--> 
 <br/>
+
+
 
 
 <!--  <div align="left">  
