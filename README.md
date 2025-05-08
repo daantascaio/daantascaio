@@ -27,7 +27,7 @@ END-->
 
 
 ### About me
-Studying technology to help more and more people is my goal. With nearly three years of experience in the IT field, I am currently working as an Infrastructure Analyst. I have experience with VMware, Zabbix for monitoring, and I use Samba for managing file sharing and network file management. I am also responsible for network security, using Sophos to control permissions and BitLocker for disk encryption management, as well as planning new security measures for the company.
+Studying technology to help more and more people is my goal. With over three years of experience in the IT field, I am currently working as an Infrastructure Analyst. I have experience with VMware, Zabbix for monitoring, and I use Samba for managing file sharing and network file management. I am also responsible for network security, using Sophos to control permissions and BitLocker for disk encryption management, as well as planning new security measures for the company.
 
 Over these years, I have consistently worked on hardware maintenance, performed setups in AD DS, managed network infrastructure, and implemented new systems within the company. I am also responsible for the company’s structured cabling, the planning of all infrastructure projects, and asset and inventory management.
 
