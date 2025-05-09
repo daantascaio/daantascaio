@@ -34,7 +34,7 @@ Over these years, I have consistently worked on hardware maintenance, performed 
 I have become passionate about learning and the constant pursuit of evolution!
 
 ### Studing at this moment
-*Infra* | *SheLL* | *linux* | *Sec* | *SysAdmin*   <!-- *Computer Science* | *Python* | *DevOps* --> 
+*Infra* | *Shell* | *linux* | *Sec* | *SysAdmin*   <!-- *Computer Science* | *Python* | *DevOps* --> 
 <br/>
 
 
